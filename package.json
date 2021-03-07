@@ -1,0 +1,15 @@
+{
+  "name": "02-Match-HTML",
+  "version": "1.0.0",
+  "description": "Complete the function `matchHTML` which is to check if a some HTML is properly closed. The function will take in an array of words and html tags. So the HTML code `<p>Hello world</p>` will be sent to the function as an array like below:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
